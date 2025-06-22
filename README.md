@@ -18,8 +18,6 @@ Express how deeply you miss someone with this emotional and personalized "Miss Y
 To run this project locally, follow these steps:
 
 ```bash
-# Clone the repository
-git clone https://github.com/Anuj579/miss-you-site.git
 
 # Navigate into the folder
 cd miss-you-site
